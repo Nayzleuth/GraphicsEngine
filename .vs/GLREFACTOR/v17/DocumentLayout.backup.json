@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\ShaderStructs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Renderer\\ShaderStructs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\ShaderStructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Renderer\\ShaderStructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Renderer\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Renderer\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Input\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Input\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Input\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Input\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\ShaderManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\ShaderManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\ShaderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\ShaderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\Physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Controllers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\Controllers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Controllers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\Controllers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\BackEnd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\BackEnd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\BackEnd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\BackEnd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Core\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Common\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Common\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Common\\Util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Common\\Util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Common\\Util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33EAE51F-93EE-4BDA-85D1-3162585AA586}|GLREFACTOR\\GLREFACTOR.vcxproj|solutionrelative:GLREFACTOR\\Common\\Util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\main.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\main.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\main.cpp",
+              "RelativeToolTip": "GLREFACTOR\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T17:11:45.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Engine.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Engine.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Engine.h",
+              "RelativeToolTip": "GLREFACTOR\\Engine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-14T17:11:43.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShaderStructs.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\ShaderStructs.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Renderer\\ShaderStructs.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\ShaderStructs.h",
+              "RelativeToolTip": "GLREFACTOR\\Renderer\\ShaderStructs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-14T17:11:29.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShaderStructs.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\ShaderStructs.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Renderer\\ShaderStructs.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\ShaderStructs.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Renderer\\ShaderStructs.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T17:11:23.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Input.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Input\\Input.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Input\\Input.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Input\\Input.h",
+              "RelativeToolTip": "GLREFACTOR\\Input\\Input.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-14T17:10:46.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Input\\Input.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Input\\Input.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Input\\Input.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Input\\Input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T17:10:40.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Util.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Common\\Util.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Common\\Util.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Common\\Util.h",
+              "RelativeToolTip": "GLREFACTOR\\Common\\Util.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-14T17:07:01.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Util.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Common\\Util.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Common\\Util.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Common\\Util.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Common\\Util.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T17:06:58.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Engine.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Engine.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Engine.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Engine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T01:01:03.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Physics.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Physics.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\Physics.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Physics.h",
+              "RelativeToolTip": "GLREFACTOR\\Core\\Physics.h",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAHoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-13T00:26:39.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Physics.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Physics.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\Physics.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Physics.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Core\\Physics.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAPEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T00:26:28.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Enums.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Common\\Enums.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Common\\Enums.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Common\\Enums.h",
+              "RelativeToolTip": "GLREFACTOR\\Common\\Enums.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-13T00:23:11.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShaderManager.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\ShaderManager.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\ShaderManager.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\ShaderManager.h",
+              "RelativeToolTip": "GLREFACTOR\\Core\\ShaderManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T22:42:48.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShaderManager.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\ShaderManager.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\ShaderManager.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\ShaderManager.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Core\\ShaderManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T22:42:45.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Controllers.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Controllers.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\Controllers.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Controllers.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Core\\Controllers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T10:41:12.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Controllers.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Controllers.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\Controllers.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Controllers.h",
+              "RelativeToolTip": "GLREFACTOR\\Core\\Controllers.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T09:46:56.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BackEnd.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\BackEnd.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\BackEnd.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\BackEnd.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Core\\BackEnd.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T09:57:44.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BackEnd.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\BackEnd.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\BackEnd.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\BackEnd.h",
+              "RelativeToolTip": "GLREFACTOR\\Core\\BackEnd.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T10:44:11.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\Renderer.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Renderer\\Renderer.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\Renderer.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Renderer\\Renderer.cpp",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAAJMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T02:00:17.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\Renderer.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Renderer\\Renderer.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Renderer\\Renderer.h",
+              "RelativeToolTip": "GLREFACTOR\\Renderer\\Renderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T03:27:56.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Scene.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Scene.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\Scene.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Scene.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Core\\Scene.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T07:35:07.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Scene.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Scene.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\Scene.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Scene.h",
+              "RelativeToolTip": "GLREFACTOR\\Core\\Scene.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-15T00:03:26.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Camera.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\Camera.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Camera.h",
+              "RelativeToolTip": "GLREFACTOR\\Core\\Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T23:55:55.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Camera.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\Camera.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\Camera.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Core\\Camera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T23:41:47.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetManager.cpp",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\AssetManager.cpp",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\AssetManager.cpp",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\AssetManager.cpp",
+              "RelativeToolTip": "GLREFACTOR\\Core\\AssetManager.cpp",
+              "ViewState": "AgIAACABAAAAAAAAAAAowC4BAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T03:12:26.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssetManager.h",
+              "DocumentMoniker": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\AssetManager.h",
+              "RelativeDocumentMoniker": "GLREFACTOR\\Core\\AssetManager.h",
+              "ToolTip": "C:\\Users\\jabbo\\Documents\\Git\\OpenGL-Experimenting-main\\OpenGL-Experimenting\\GLREFACTOR\\Core\\AssetManager.h",
+              "RelativeToolTip": "GLREFACTOR\\Core\\AssetManager.h",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAAAP0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T03:11:42.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

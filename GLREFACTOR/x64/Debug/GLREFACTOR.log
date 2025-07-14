@@ -1,0 +1,3 @@
+﻿  AssetManager.cpp
+C:\Users\jabbo\Documents\Git\OpenGL-Experimenting-main\OpenGL-Experimenting\GLREFACTOR\Core\AssetManager.cpp(72,25): warning C4101: 'z': unreferenced local variable
+  GLREFACTOR.vcxproj -> C:\Users\jabbo\Documents\Git\OpenGL-Experimenting-main\OpenGL-Experimenting\x64\Debug\GLREFACTOR.exe
